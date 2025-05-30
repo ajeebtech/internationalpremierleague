@@ -1,0 +1,125 @@
+League,Team,Player,Caps
+bbl,Adelaide Strikers,J Weatherald (edc7ddb6),93
+bbl,Brisbane Heat,JJ Peirson (2b55c3b4),114
+bbl,Hobart Hurricanes,BR McDermott (c41043e6),99
+bbl,Melbourne Renegades,AJ Finch (b8d490fd),105
+bbl,Melbourne Stars,GJ Maxwell (b681e71e),109
+bbl,Perth Scorchers,AJ Turner (ff1e12a0),127
+bbl,Sydney Sixers,MC Henriques (32198ae0),138
+bbl,Sydney Thunder,CJ Green (19b9f399),109
+bpl,Barisal Bulls,Taijul Islam (9d1d34bd),23
+bpl,Barisal Burners,Nazmul Islam (6575e3bc),19
+bpl,Chattogram Challengers,Nasum Ahmed (37654b75),25
+bpl,Chittagong Kings,Arafat Sunny (1f7adc8a),24
+bpl,Chittagong Vikings,Anamul Haque (72b245dd),29
+bpl,Comilla Victorians,Imrul Kayes (5fbe14fc),80
+bpl,Cumilla Warriors,Mujeeb Ur Rahman (7d92277a),12
+bpl,Dhaka Capital,Tanzid Hasan (80fe764d),12
+bpl,Dhaka Dominators,Soumya Sarkar (4d9f9686),12
+bpl,Dhaka Dynamites,Shakib Al Hasan (7dc35884),42
+bpl,Dhaka Gladiators,Mohammad Ashraful (2bb09eb2),17
+bpl,Dhaka Platoon,Hasan Mahmud (80ad39ac),13
+bpl,Durbar Rajshahi,Anamul Haque (72b245dd),12
+bpl,Durdanto Dhaka,Mohammad Naim (7923a51d),12
+bpl,Duronto Rajshahi,Monir Hossain (760f445b),15
+bpl,Fortune Barishal,Mahmudullah (bf1d7d3e),42
+bpl,Khulna Royal Bengals,Shahriar Nafees (b9c225c2),11
+bpl,Khulna Tigers,Nasum Ahmed (37654b75),34
+bpl,Khulna Titans,Mahmudullah (bf1d7d3e),37
+bpl,Minister Group Dhaka,Shuvagata Hom (bb01f9e0),9
+bpl,Rajshahi Kings,Mehedi Hasan Miraz (c58b0108),38
+bpl,Rajshahi Royals,Afif Hossain (37138918),15
+bpl,Rangpur Rangers,Mustafizur Rahman (0a8fce53),12
+bpl,Rangpur Riders,Mohammad Mithun (77191792),51
+bpl,Sylhet Royals,E Chigumbura (d2babdd5),10
+bpl,Sylhet Sixers,Sabbir Rahman (7147f314),23
+bpl,Sylhet Strikers,Zakir Hasan (e3e09091),38
+bpl,Sylhet Sunrisers,Anamul Haque (72b245dd),9
+bpl,Sylhet Super Stars,Nurul Hasan (d365d463),9
+bpl,Sylhet Thunder,Ebadat Hossain (cb5100f1),12
+cpl,Antigua Hawksbills,MN Samuels (f846de6a),15
+cpl,Antigua and Barbuda Falcons,CJ Green (19b9f399),10
+cpl,Barbados Royals,JO Holder (0f721006),40
+cpl,Barbados Tridents,JO Holder (0f721006),59
+cpl,Guyana Amazon Warriors,SO Hetmyer (48a1d7b7),79
+cpl,Jamaica Tallawahs,AD Russell (bbd41817),75
+cpl,St Kitts and Nevis Patriots,E Lewis (0ebfb1ad),95
+cpl,St Lucia Kings,RL Chase (3feda4fa),41
+cpl,St Lucia Stars,ADS Fletcher (1bae756b),19
+cpl,St Lucia Zouks,ADS Fletcher (1bae756b),55
+cpl,Trinbago Knight Riders,SP Narine (9d430b40),84
+cpl,Trinidad & Tobago Red Steel,DJ Bravo (87e562a9),30
+hnd,Birmingham Phoenix,BAC Howell (0bec3a6c),33
+hnd,London Spirit,CE Dean (c6625a26),30
+hnd,Manchester Originals,PD Salt (3d284ca3),35
+hnd,Northern Superchargers,AU Rashid (249d60c9),31
+hnd,Oval Invincibles,MK Villiers (cd62f670),32
+hnd,Southern Brave,JM Vince (a15618fe),36
+hnd,Trent Rockets,L Gregory (06c2de82),33
+hnd,Welsh Fire,DA Payne (6c79c098),30
+ipl,Chennai Super Kings,MS Dhoni (4a8a2e3b),245
+ipl,Deccan Chargers,PP Ojha (6c6591ab),54
+ipl,Delhi Capitals,AR Patel (2e171977),94
+ipl,Delhi Daredevils,A Mishra (6b19d823),81
+ipl,Gujarat Lions,KD Karthik (c03f1114),30
+ipl,Gujarat Titans,Rashid Khan (5f547c8b),56
+ipl,Kings XI Punjab,PP Chawla (98ae73b1),87
+ipl,Kochi Tuskers Kerala,PA Patel (b5da6c24),14
+ipl,Kolkata Knight Riders,SP Narine (9d430b40),187
+ipl,Lucknow Super Giants,Ravi Bishnoi (df064e1a),53
+ipl,Mumbai Indians,RG Sharma (740742ef),223
+ipl,Pune Warriors,RV Uthappa (1c17e270),46
+ipl,Punjab Kings,Arshdeep Singh (244048f6),66
+ipl,Rajasthan Royals,SV Samson (a4cc73aa),146
+ipl,Rising Pune Supergiant,MS Dhoni (4a8a2e3b),16
+ipl,Rising Pune Supergiants,R Ashwin (495d42a5),14
+ipl,Royal Challengers Bangalore,V Kohli (ba607b88),236
+ipl,Royal Challengers Bengaluru,V Kohli (ba607b88),26
+ipl,Sunrisers Hyderabad,B Kumar (2e81a32d),145
+lpl,B-Love Kandy,AD Mathews (896d78ad),11
+lpl,Colombo Kings,LD Chandimal (8dd02a98),9
+lpl,Colombo Stars,LD Chandimal (8dd02a98),20
+lpl,Colombo Strikers,M Pathirana (64839cb3),17
+lpl,Dambulla Aura,Noor Ahmad (efc04be7),15
+lpl,Dambulla Giants,C Karunaratne (fb3e0d39),10
+lpl,Dambulla Sixers,Mohammad Nabi (62af8546),8
+lpl,Dambulla Viiking,MD Shanaka (3ff033bb),9
+lpl,Galle Gladiators,N Thushara (ee1b6c27),22
+lpl,Galle Marvels,N Dickwella (45963d9e),10
+lpl,Galle Titans,MD Shanaka (3ff033bb),10
+lpl,Jaffna Kings,WIA Fernando (9550470d),31
+lpl,Jaffna Stallions,NLTC Perera (0f12f9df),10
+lpl,Kandy Falcons,PWH de Silva (a97c8ec2),20
+lpl,Kandy Tuskers,DAS Gunaratne (770494eb),8
+lpl,Kandy Warriors,PHKD Mendis (08548b13),8
+ntb,Birmingham Bears,SR Hain (67b9536c),86
+ntb,Derbyshire,WL Madsen (86e0f3f0),125
+ntb,Durham,G Clark (4fd09cfc),110
+ntb,Essex,SR Harmer (23638956),105
+ntb,Glamorgan,CB Cooke (6755cd5c),128
+ntb,Gloucestershire,JMR Taylor (aed5be04),130
+ntb,Hampshire,JM Vince (a15618fe),138
+ntb,Kent,DJ Bell-Drummond (8f938a32),136
+ntb,Lancashire,SJ Croft (ab474682),144
+ntb,Leicestershire,CF Parkinson (aa1210d8),91
+ntb,Middlesex,JA Simpson (f05fe9b1),125
+ntb,Northamptonshire,GG White (0f21680d),103
+ntb,Nottinghamshire,SR Patel (18fac429),133
+ntb,Somerset,L Gregory (06c2de82),119
+ntb,Surrey,GJ Batty (5ac8f17b),101
+ntb,Sussex,LJ Wright (cca50cd6),103
+ntb,Warwickshire,JS Patel (f5821615),57
+ntb,Worcestershire,BL D'Oliveira (9679838c),128
+ntb,Yorkshire,A Lyth (70b8fd28),120
+psl,Islamabad United,Shadab Khan (9de62878),91
+psl,Karachi Kings,Imad Wasim (9cb8d7a6),76
+psl,Lahore Qalandars,Fakhar Zaman (1777c020),93
+psl,Multan Sultans,Mohammad Rizwan (2f26ac1a),57
+psl,Peshawar Zalmi,Wahab Riaz (b3118300),87
+psl,Quetta Gladiators,Sarfraz Ahmed (2254ab79),86
+sat,Durban's Super Giants,KA Maharaj (0b60eb09),32
+sat,Joburg Super Kings,F du Plessis (3355b542),33
+sat,MI Cape Town,D Brevis (844e79d1),32
+sat,Paarl Royals,BC Fortuin (9a2fc964),33
+sat,Pretoria Capitals,E Bosch (28d6c44d),29
+sat,Sunrisers Eastern Cape,T Stubbs (85b3fab2),36
