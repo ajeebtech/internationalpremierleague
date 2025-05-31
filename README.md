@@ -1,4 +1,4 @@
-84 teams, 6,972 matches.
+82 teams, 6,972 matches.
 
 a player draft with 902 players
 
