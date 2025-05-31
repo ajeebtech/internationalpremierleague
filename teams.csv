@@ -1,84 +1,83 @@
-team,league
-Adelaide Strikers,BBL
-Antigua Hawksbills,CPL
-Barbados Royals,CPL
-Birmingham Bears,NTB
-Birmingham Phoenix,HND
-Brisbane Heat,BBL
-Chennai Super Kings,IPL
-Chittagong Kings,BPL
-Colombo Strikers,LPL
-Comilla Victorians,BPL
-Dambulla Sixers,LPL
-Deccan Chargers,IPL
-Delhi Capitals,IPL
-Derbyshire,NTB
-Dhaka Capital,BPL
-Durban's Super Giants,SA20
-Durbar Rajshahi,BPL
-Durham,NTB
-Essex,NTB
-Fortune Barishal,BPL
-Galle Marvels,LPL
-Glamorgan,NTB
-Gloucestershire,NTB
-Gujarat Lions,IPL
-Gujarat Titans,IPL
-Guyana Amazon Warriors,CPL
-Hampshire,NTB
-Hobart Hurricanes,BBL
-Islamabad United,PSL
-Jaffna Kings,LPL
-Jamaica Tallawahs,CPL
-Joburg Super Kings,SA20
-Kandy Falcons,LPL
-Karachi Kings,PSL
-Kent,NTB
-Khulna Tigers,BPL
-Kochi Tuskers Kerala,IPL
-Kolkata Knight Riders,IPL
-Lahore Qalandars,PSL
-Lancashire,NTB
-Leicestershire,NTB
-London Spirit,HND
-Lucknow Super Giants,IPL
-MI Cape Town,SA20
-Manchester Originals,HND
-Melbourne Renegades,BBL
-Melbourne Stars,BBL
-Middlesex,NTB
-Minister Group Dhaka,BPL
-Multan Sultans,PSL
-Mumbai Indians,IPL
-Northamptonshire,NTB
-Northern Superchargers,HND
-Nottinghamshire,NTB
-Oval Invincibles,HND
-Paarl Royals,SA20
-Perth Scorchers,BBL
-Peshawar Zalmi,PSL
-Pretoria Capitals,SA20
-Pune Warriors,IPL
-Punjab Kings,IPL
-Quetta Gladiators,PSL
-Rajasthan Royals,IPL
-Rangpur Riders,BPL
-Rising Pune Supergiant,IPL
-Royal Challengers Bengaluru,IPL
-Somerset,NTB
-Southern Brave,HND
-St Kitts and Nevis Patriots,CPL
-St Lucia Kings,CPL
-Sunrisers Eastern Cape,SA20
-Sunrisers Hyderabad,IPL
-Surrey,NTB
-Sussex,NTB
-Sydney Sixers,BBL
-Sydney Thunder,BBL
-Sylhet Strikers,BPL
-Trent Rockets,HND
-Trinbago Knight Riders,CPL
-Warwickshire,NTB
-Welsh Fire,HND
-Worcestershire,NTB
-Yorkshire,NTB
+team,league,stadium
+Adelaide Strikers,BBL,Adelaide Oval
+Antigua Hawksbills,CPL,Sir Vivian Richards Stadium
+Barbados Royals,CPL,Kensington Oval
+Birmingham Bears,T20 Blast/Hundred,Edgbaston
+Birmingham Phoenix,T20 Blast/Hundred,Edgbaston
+Brisbane Heat,BBL,The Gabba
+Chennai Super Kings,IPL,M. A. Chidambaram Stadium
+Chittagong Kings,BPL,Zohur Ahmed Chowdhury Stadium
+Colombo Strikers,LPL,R. Premadasa Stadium
+Comilla Victorians,BPL,Zahur Ahmed Chowdhury Stadium
+Dambulla Sixers,LPL,Rangiri Dambulla International Stadium
+Deccan Chargers,IPL,Rajiv Gandhi International Stadium
+Delhi Capitals,IPL,Arun Jaitley Stadium
+Derbyshire,T20 Blast/Hundred,County Ground Derby
+Dhaka Capital,BPL,Sher-e-Bangla National Cricket Stadium
+Durban's Super Giants,SA20,Kingsmead
+Durbar Rajshahi,BPL,Shaheed Kamruzzaman Stadium
+Durham,T20 Blast/Hundred,Riverside Ground
+Essex,T20 Blast/Hundred,County Ground Chelmsford
+Fortune Barishal,BPL,Sher-e-Bangla National Cricket Stadium
+Galle Marvels,LPL,Galle International Stadium
+Glamorgan,T20 Blast/Hundred,Sophia Gardens
+Gloucestershire,T20 Blast/Hundred,County Ground Bristol
+Gujarat Lions,IPL,Saurashtra Cricket Association Stadium
+Gujarat Titans,IPL,Narendra Modi Stadium
+Guyana Amazon Warriors,CPL,Providence Stadium
+Hampshire,T20 Blast/Hundred,The Rose Bowl
+Hobart Hurricanes,BBL,Blundstone Arena
+Islamabad United,PSL,Rawalpindi Cricket Stadium
+Jaffna Kings,LPL,Jaffna International Cricket Stadium
+Jamaica Tallawahs,CPL,Sabina Park
+Joburg Super Kings,SA20,Wanderers Stadium
+Kandy Falcons,LPL,Pallekele International Cricket Stadium
+Karachi Kings,PSL,National Stadium Karachi
+Kent,T20 Blast/Hundred,St Lawrence Ground
+Khulna Tigers,BPL,Sheikh Abu Naser Stadium
+Kochi Tuskers Kerala,IPL,Nehru Stadium
+Kolkata Knight Riders,IPL,Eden Gardens
+Lahore Qalandars,PSL,Gaddafi Stadium
+Lancashire,T20 Blast/Hundred,Old Trafford
+Leicestershire,T20 Blast/Hundred,Grace Road
+London Spirit,T20 Blast/Hundred,Lord's
+Lucknow Super Giants,IPL,BRSABV Ekana Cricket Stadium
+MI Cape Town,SA20,Newlands
+Manchester Originals,T20 Blast/Hundred,Old Trafford
+Melbourne Renegades,BBL,Marvel Stadium
+Melbourne Stars,BBL,MCG 
+Middlesex,T20 Blast/Hundred,Lord's
+Multan Sultans,PSL,Multan Cricket Stadium
+Mumbai Indians,IPL,Wankhede Stadium
+Northamptonshire,T20 Blast/Hundred,County Ground Northampton
+Northern Superchargers,T20 Blast/Hundred,Headingley
+Nottinghamshire,T20 Blast/Hundred,Trent Bridge
+Oval Invincibles,T20 Blast/Hundred,The Oval
+Paarl Royals,SA20,Boland Park
+Perth Scorchers,BBL,Optus Stadium
+Peshawar Zalmi,PSL,Arbab Niaz Stadium
+Pretoria Capitals,SA20,SuperSport Park
+Pune Warriors,IPL,Subrata Roy Sahara Stadium
+Punjab Kings,IPL,PCA Stadium 
+Quetta Gladiators,PSL,Bugti Stadium
+Rajasthan Royals,IPL,Sawai Mansingh Stadium
+Rangpur Riders,BPL,Rangpur Cricket Garden
+Rising Pune Supergiant,IPL,MCA Stadium Pune
+Royal Challengers Bengaluru,IPL,M. Chinnaswamy Stadium
+Somerset,T20 Blast/Hundred,County Ground Taunton
+Southern Brave,T20 Blast/Hundred,The Rose Bowl
+St Kitts and Nevis Patriots,CPL,Warner Park
+St Lucia Kings,CPL,Daren Sammy National Cricket Stadium
+Sunrisers Eastern Cape,SA20,St George's Park
+Sunrisers Hyderabad,IPL,Rajiv Gandhi International Stadium
+Surrey,T20 Blast/Hundred,The Oval
+Sussex,T20 Blast/Hundred,County Ground Hove
+Sydney Sixers,BBL,SCG (Sydney Cricket Ground)
+Sydney Thunder,BBL,Sydney Showground Stadium
+Sylhet Strikers,BPL,Sylhet International Cricket Stadium
+Trent Rockets,T20 Blast/Hundred,Trent Bridge
+Trinbago Knight Riders,CPL,Queen's Park Oval
+Warwickshire,T20 Blast/Hundred,Edgbaston
+Welsh Fire,T20 Blast/Hundred,Sophia Gardens
+Worcestershire,T20 Blast/Hundred,New Road Worcester
+Yorkshire,T20 Blast/Hundred,Headingley
