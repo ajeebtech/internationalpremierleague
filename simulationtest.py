@@ -5,12 +5,17 @@ import torch
 import os
 from player_predictions import predict_next_over, format_over, format_sequence
 import time
+from datetime import datetime, timedelta
 
 class MatchSimulator:
     def __init__(self, team1_name=None, team2_name=None, toss_winner=None, toss_decision=None):
         # Load team data
         with open('teams.json', 'r') as f:
             teams = json.load(f)
+        
+        # Initialize match date (starting from May 31st, 2024)
+        self.start_date = datetime(2024, 5, 31)
+        self.current_match_date = self.start_date
         
         # Initialize points table
         self.points_table = {}
@@ -334,10 +339,11 @@ class MatchSimulator:
     def simulate_match(self):
         """Simulate both innings of the match."""
         print(f"\nMatch: {self.team1_name} vs {self.team2_name}")
+        print(f"Date: {self.current_match_date.strftime('%B %d, %Y')}")
         print(f"Toss: {self.toss_winner} won and chose to {self.toss_decision}")
         
-        # Generate match ID from timestamp
-        match_id = int(time.time())
+        # Generate match ID from date
+        match_id = self.current_match_date.strftime('%Y%m%d')
         
         # First innings
         print("\n=== FIRST INNINGS ===")
@@ -584,6 +590,7 @@ class MatchSimulator:
         
         for match_num, match in enumerate(matches, 1):
             print(f"\n=== Match {match_num}/{len(matches)} ===")
+            print(f"Date: {self.current_match_date.strftime('%B %d, %Y')}")
             
             # Get match details
             team1_name = match['team1']
@@ -593,6 +600,7 @@ class MatchSimulator:
             
             # Create new simulator instance for this match
             simulator = MatchSimulator(team1_name, team2_name, toss_winner, toss_decision)
+            simulator.current_match_date = self.current_match_date  # Set the date for this match
             
             # Simulate match
             match_result = simulator.simulate_match()
@@ -602,6 +610,9 @@ class MatchSimulator:
             
             # Save points table after each match
             self._save_points_table()
+            
+            # Increment date for next match
+            self.current_match_date += timedelta(days=1)
         
         print("\n=== TOURNAMENT COMPLETE ===")
         print("\nFinal Points Table:")

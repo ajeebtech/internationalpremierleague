@@ -3,6 +3,8 @@ import pandas as pd
 import random
 from simulationtest import MatchSimulator
 import os
+import time
+from tqdm import tqdm
 
 class TournamentSimulator:
     def __init__(self):
@@ -107,8 +109,12 @@ class TournamentSimulator:
         """Simulate all matches in the tournament."""
         print("Starting tournament simulation...")
         
-        for i, match in enumerate(self.matches):
-            print(f"\n=== Match {i+1}: {match['team1']} vs {match['team2']} ===")
+        # Create progress bar
+        pbar = tqdm(self.matches, desc="Simulating matches", unit="match")
+        
+        for i, match in enumerate(pbar):
+            # Update progress bar description with current match
+            pbar.set_description(f"Match: {match['team1']} vs {match['team2']}")
             
             # Simulate match
             toss_winner = random.choice([match['team1'], match['team2']])
@@ -122,6 +128,11 @@ class TournamentSimulator:
             
             # Print updated points table after each match
             self.print_points_table()
+            
+            # Add a 5-minute break after every 100 games
+            if (i + 1) % 100 == 0 and i + 1 < len(self.matches):
+                print(f"\nCompleted {i + 1} matches. Taking a 5-minute break...")
+                time.sleep(300)  # 5 minutes = 300 seconds
         
         # Save final points table
         self.save_points_table()
