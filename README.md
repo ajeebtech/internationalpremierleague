@@ -19,6 +19,6 @@ then cricket will be played
 
 one match each for the home side, one away, the home advantage exists
 
-6,972 iterations of for loops, 6,972 match reports
+6,642 iterations of for loops, 6,642 match reports
 
 who's gonna be crowned the t20 champion of the world?
