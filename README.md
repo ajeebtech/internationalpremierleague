@@ -1,6 +1,6 @@
 84 teams, 6,972 matches.
 
-an auction with 84 trained DDPG agents, 2421 players
+a player draft with 902 players
 
 11 players in each team, 4 bowlers 1 all rounder (there will be a bowling score. if there are not 4 bowlers, the best bowlers out of the batsmen and all rounders)
 , 4 overseas(depending on whether they don't belong to that region's team)
